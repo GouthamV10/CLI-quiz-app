@@ -1,4 +1,3 @@
-Certainly! Below is a basic template for a README file for your CLI application. Feel free to customize it with more details specific to your project.
 
 ---
 
