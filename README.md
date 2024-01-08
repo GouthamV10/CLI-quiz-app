@@ -1,7 +1,6 @@
 
 # CLI Quiz App
 
-![Quiz App Logo/Icon - You can add an image here if you have one]
 
 ## Description
 
