@@ -1,6 +1,4 @@
 
----
-
 # CLI Quiz App
 
 ![Quiz App Logo/Icon - You can add an image here if you have one]
@@ -48,18 +46,9 @@ Answer the quiz questions and see if you can win the virtual prize!
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [ISC License](LICENSE).
 
 ## Acknowledgements
 
 - Special thanks to the authors of the npm packages used in this project.
 
-## Author
 
-[Your Name]
-
----
-
-Replace `<repository-url>` with the actual URL of your Git repository, and update the author section with your name. You can also add sections like "Features," "Screenshots," or anything else relevant to your project.
